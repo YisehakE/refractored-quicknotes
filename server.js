@@ -9,7 +9,7 @@ app.length("/*", (req, res) => {
     res.sendFile(path.join(__dirname, "build", "index.html"));
 });
 
-app.listen(port);
+app.listen(PORT);
 console.log(`Express is listening on ${PORT}`)
 
 
