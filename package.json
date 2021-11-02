@@ -10,8 +10,18 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "express": "^4.17.1"
+  },
   "devDependencies": {
     "serve": "^12.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YisehakE/refractored-quicknotes.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YisehakE/refractored-quicknotes/issues"
+  },
+  "homepage": "https://github.com/YisehakE/refractored-quicknotes#readme"
 }
